@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lego/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lego/static/js/main.facdea68.chunk.js",
+    "main.js.map": "/lego/static/js/main.facdea68.chunk.js.map",
+    "runtime-main.js": "/lego/static/js/runtime-main.21269201.js",
+    "runtime-main.js.map": "/lego/static/js/runtime-main.21269201.js.map",
+    "static/js/2.b8fd56b3.chunk.js": "/lego/static/js/2.b8fd56b3.chunk.js",
+    "static/js/2.b8fd56b3.chunk.js.map": "/lego/static/js/2.b8fd56b3.chunk.js.map",
+    "static/js/3.38a349ed.chunk.js": "/lego/static/js/3.38a349ed.chunk.js",
+    "static/js/3.38a349ed.chunk.js.map": "/lego/static/js/3.38a349ed.chunk.js.map",
+    "index.html": "/lego/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lego/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b8fd56b3.chunk.js.LICENSE.txt": "/lego/static/js/2.b8fd56b3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lego/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21269201.js",
+    "static/js/2.b8fd56b3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.facdea68.chunk.js"
+  ]
+}
